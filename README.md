@@ -1,17 +1,17 @@
-<a href="https://github.com/rustdesk/hbb_common">Fork hbb_common 并修改</a></br>
-<a href="https://github.com/rustdesk/rustdesk">Fork rustdesk 并修改</a></br>
-修改.gitmodules的链接为你自己的</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step1.PNG)</br>
-启用Action</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step2.PNG)</br>
-开启dependabot</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step3.png)</br>
-等待submodules更新完成，提交Pull requests</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step4.png)</br>
-查看并合并代码</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step5.png)</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step6.png)</br>
-![image](https://github.com/kevin202408/rustdesk/blob/master/step7.png)</br>
+<a href="https://github.com/rustdesk/hbb_common">1. Fork hbb_common 并修改</a></br></br>
+<a href="https://github.com/rustdesk/rustdesk">2. Fork rustdesk 并修改</a></br></br>
+3. 修改.gitmodules的链接为你自己的</br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step1.PNG)</br></br>
+4. 启用Action</br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step2.PNG)</br></br>
+5. 开启dependabot</br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step3.PNG)</br></br>
+6. 等待submodules更新完成，提交Pull requests</br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step4.PNG)</br></br>
+7. 查看并合并代码</br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step5.PNG)</br></br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step6.PNG)</br></br>
+![image](https://github.com/kevin202408/rustdesk/blob/master/step7.PNG)</br></br>
 代码合并完成， 仓库就是使用你自己的hbb_common。</br>
 如果已经已经合并过了，再次修改hbb_common，先禁用dependabot再启用。</br>
 
